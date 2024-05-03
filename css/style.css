@@ -18,6 +18,20 @@ header {
     align-items: center;
 }
 
+.headerno-cls {
+    padding-top: 12px;
+    font-size: 30px;
+    font-weight: 600;
+     background: linear-gradient(to right, #bd9d6b, #f4e8b6, #ad8d60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.headerno-cls a{
+    font-weight: 900;
+}
+
+
 * {
     font-family: Inter, sans-serif;
     font-weight: 400
