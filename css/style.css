@@ -1257,14 +1257,15 @@ hr.why-hr-line {
 
 .call-btn {
     line-height: 45px;
-    border-top: 4px solid #1a75ac;
+/*    border-top: 4px solid #1a75ac;*/
     height: 50px;
     text-decoration: none !important;
-    color: #212121 !important;
-    background: #f1faff;
+    color: #fff !important;
+    background: #e51127;
     /* background: linear-gradient(90deg, #f2c292 0%, #f2c292 35%, #fbd4a9 100%) !important; */
     font-weight: 600;
     font-size: 20px;
+    line-height: 50px;
     position: fixed;
     z-index: 99;
     bottom: 0;
